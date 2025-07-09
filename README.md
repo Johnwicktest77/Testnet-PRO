@@ -1,0 +1,2 @@
+# Testnet-PRO
+Trial testnetinfo
